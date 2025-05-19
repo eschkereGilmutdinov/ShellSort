@@ -1,0 +1,7 @@
+C:\Users\teffy\source\repos\Shell sort\Shell sort\bin\Debug\Shell sort.exe.config
+C:\Users\teffy\source\repos\Shell sort\Shell sort\bin\Debug\Shell sort.exe
+C:\Users\teffy\source\repos\Shell sort\Shell sort\bin\Debug\Shell sort.pdb
+C:\Users\teffy\source\repos\Shell sort\Shell sort\obj\Debug\Shell sort.csproj.AssemblyReference.cache
+C:\Users\teffy\source\repos\Shell sort\Shell sort\obj\Debug\Shell sort.csproj.CoreCompileInputs.cache
+C:\Users\teffy\source\repos\Shell sort\Shell sort\obj\Debug\Shell sort.exe
+C:\Users\teffy\source\repos\Shell sort\Shell sort\obj\Debug\Shell sort.pdb
